@@ -32,7 +32,7 @@
 <br>
 
 ## Dataset Used For Training and How We Splitted it
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/dbe3e6d6-da6c-43a8-9765-abb4f132dbb6" />
+<img width="1697" height="793" alt="image" src="https://github.com/user-attachments/assets/e9542b65-a5c4-4f36-b8cf-7d53f1129ae5" />
 
 <br><br>
 ## Experiment 1 (add_sentimentScoreFeature)
