@@ -3,7 +3,6 @@
   <span style="font-size: 14px; font-weight: normal;"> (Graduation Project)</span>
 </h1>
 
-<br>
 
 ## Video Illustrates how the Project Works
 
