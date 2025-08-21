@@ -11,7 +11,7 @@
 <br><br>
 
 
-## Table That Has Every File Code with its Description
+## Table That Has Every File Code Name with its Description
 
 | File Name                              | Description |
 |----------------------------------------|-------------|
