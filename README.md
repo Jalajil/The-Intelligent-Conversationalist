@@ -31,7 +31,7 @@
 
 <br>
 
-## Dataset Used For Training and How We Splitted it
+## Dataset Used For Training and How We Splitted It
 <img width="1697" height="793" alt="image" src="https://github.com/user-attachments/assets/e9542b65-a5c4-4f36-b8cf-7d53f1129ae5" />
 
 <br><br>
