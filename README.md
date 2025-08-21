@@ -4,7 +4,7 @@
 </h1>
 
 
-## Video Illustrates how the Project Works
+## Video Illustrates how the Project Work
 
 <video src="https://github.com/user-attachments/assets/9c3aaf5f-f70e-4a42-b009-c6b95208cb16" width="400" controls></video>
 
